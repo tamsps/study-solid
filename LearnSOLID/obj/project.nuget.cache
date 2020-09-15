@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+E/3ZR1lufTtt8hwb9upUmhL7fMAZCwgeEkw7oEEFg51lOj7UXg1c8MVIxgJvFQ/dqWGTt6yA3GOp42qkH6qQ==",
+  "dgSpecHash": "UTAhYfqwwi4lN91tBqyXa4qC4FU+dt/YWCC+6At14LWAOUMhHMH119kBfMehQikEzY2q2UtRK6eTHwbrAi3J4g==",
   "success": true,
-  "projectFilePath": "C:\\DATA\\Study\\LearnSOLID\\LearnSOLID\\LearnSOLID.csproj",
+  "projectFilePath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\LearnSOLID\\LearnSOLID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

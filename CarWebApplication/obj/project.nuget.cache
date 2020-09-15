@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rgGRTRxRBE3cSMks8sHakp4IkOxl2Zcl+IP8yjNh0luAnPE4KW9KKMy8eKbam5hLhhOTDjS+CCa7eqLBPTUzxA==",
+  "dgSpecHash": "SYsslB8N3akm6lms6hus4YDRIzJBziSeqKXeIkuUo1tzrYUmNV9ee1eEV+0utEdybUM4i6d2pWtuJbnYtL6wXg==",
   "success": true,
-  "projectFilePath": "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\CarWebApplication.csproj",
+  "projectFilePath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\CarWebApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

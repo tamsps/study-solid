@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DATA\\Study\\LearnSOLID\\LearnSOLID\\LearnSOLID.csproj",
+      "projectUniqueName": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\LearnSOLID\\LearnSOLID.csproj",
       "projectName": "LearnSOLID",
-      "projectPath": "C:\\DATA\\Study\\LearnSOLID\\LearnSOLID\\LearnSOLID.csproj",
+      "projectPath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\LearnSOLID\\LearnSOLID.csproj",
       "packagesPath": "C:\\Users\\congtam.vu\\.nuget\\packages\\",
-      "outputPath": "C:\\DATA\\Study\\LearnSOLID\\LearnSOLID\\obj\\",
+      "outputPath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\LearnSOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

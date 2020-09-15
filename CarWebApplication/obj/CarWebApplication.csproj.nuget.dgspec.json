@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\CarWebApplication.csproj": {}
+    "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\CarWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\CarWebApplication.csproj": {
+    "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\CarWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\CarWebApplication.csproj",
+        "projectUniqueName": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\CarWebApplication.csproj",
         "projectName": "CarWebApplication",
-        "projectPath": "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\CarWebApplication.csproj",
+        "projectPath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\CarWebApplication.csproj",
         "packagesPath": "C:\\Users\\congtam.vu\\.nuget\\packages\\",
-        "outputPath": "C:\\DATA\\Study\\LearnSOLID\\CarWebApplication\\obj\\",
+        "outputPath": "C:\\DATA\\Study\\LearnSOLID\\study-solid\\CarWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
