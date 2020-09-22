@@ -30,6 +30,10 @@ namespace CarWebApplication
             services.AddTransient<ITransientOperation, TransientOperation>();
             services.AddScoped<IScopedOperation, ScopedOperation>();
             services.AddTransient<IMyService, MyService>();
+            services.AddTransient<IUserData, UserData>();
+            services.AddTransient<IDataSource, JsonDataSource>();
+            services.AddTransient<IDataSource, XmlDataSource>();
+
 
         }
 

@@ -34,5 +34,4 @@ C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Deb
 C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Debug\netcoreapp3.1\CarWebApplication.pdb
 C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Debug\netcoreapp3.1\CarWebApplication.genruntimeconfig.cache
 C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Debug\netcoreapp3.1\CarWebApplication.csproj.CopyComplete
-C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Debug\netcoreapp3.1\CarWebApplication.csprojAssemblyReference.cache
 C:\DATA\Study\LearnSOLID\study-solid\CarWebApplication\CarWebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
